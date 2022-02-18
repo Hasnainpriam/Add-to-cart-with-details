@@ -1,0 +1,17 @@
+.cart-container{
+  background-color: lightgray;
+  margin: 10px;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 15px;
+  color: black;
+}
+.name{
+  background-color: cadetblue;
+  color: white;
+  width: 80%;
+  margin:5px auto;
+  border-radius: 30px;
+  padding: 3px;
+  text-align: center;
+}

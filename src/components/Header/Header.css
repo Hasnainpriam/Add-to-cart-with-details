@@ -1,0 +1,16 @@
+.header-section{
+  text-align: center;
+  color: black;
+}
+nav{
+background-color: black;
+
+}
+.list-container a{
+  text-decoration: none;
+  color: whitesmoke;
+  line-height: 4rem;
+  margin: 0 2rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
